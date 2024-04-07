@@ -1,4 +1,4 @@
-const url = `http://localhost:3000`
+const url = `https://nyustudentmanagementsystemdb-4d2c7542b41f.herokuapp.com`
 async function getUser() {
     try {
         const link = `${url}/users/`
